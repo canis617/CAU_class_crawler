@@ -1,11 +1,9 @@
 import pymysql.cursors
 
 conn = pymysql.connect(
-        host='*',
-        user='*',
-        password='*',
-        db='*',
-        charset='utf8mb4'
+        host='' user='*
+        password='' db=',   charset='
+      '
         )
 
 
